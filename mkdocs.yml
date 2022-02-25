@@ -36,7 +36,6 @@ theme:
 
 plugins:
   - search
-  - git-revision-date
 
 copyright:  CC BY-SA / Vincent ROBERT
 
