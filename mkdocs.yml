@@ -1,4 +1,16 @@
-site_name: My Docs
+site_name: "Mathématiques, classe de seconde, Lycée Louis Pasteur"
+site_url: "https://2nde.mathematiques.ovh"
 
 theme:
   name: material
+  font: false
+  language: fr
+
+features:
+  - navigation.instant
+  - navigation.tabs
+  - navigation.expand
+  - navigation.top
+  - toc.integrate
+  - header.autohide
+  - content.code.annotate 
