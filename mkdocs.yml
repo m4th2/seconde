@@ -1,6 +1,6 @@
 site_name: "Mathématiques, classe de seconde, Lycée Louis Pasteur"
 site_url: "https://2nde.mathematiques.ovh"
-docs_dir: seconde/docs
+docs_dir: docs
 
 theme:
   name: material
